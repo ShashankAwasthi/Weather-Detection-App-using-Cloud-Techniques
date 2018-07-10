@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="welcomeMessage">Weather Forecast can provide you with forecast and alerts fo your exact location as you move.Please allow using Location Services to enable this.</string>
+</resources>

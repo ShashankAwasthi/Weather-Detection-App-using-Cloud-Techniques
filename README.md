@@ -1,1 +1,1 @@
-# Weather-Detection-App-using-Cloud-Techniques
+# Weather-Detection-App-using-Cloud-Techniques from AWS using mobilehub and pinpoint
